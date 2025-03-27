@@ -26,7 +26,7 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 <https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-time-and-motion-study-28-03-3311-07-04-3311.635652/>
 
-The AutoSplitter will start the timer once you undock from the Fleet Carrier "Somerset Station"   
+The AutoSplitter will start the timer once you undock from the station "Somerset Station"   
 Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the nth stop.   
 
 
