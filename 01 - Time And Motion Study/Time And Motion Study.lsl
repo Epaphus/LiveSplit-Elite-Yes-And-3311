@@ -186,7 +186,7 @@
       <Path>LiveSplit.ScriptableAutoSplit.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <ScriptPath>H:\LiveSplit\Splits\Yes And 3311\01 - Time And Motion Study\Time And Motion Study.asl</ScriptPath>
+        <ScriptPath></ScriptPath>
         <Start>True</Start>
         <Split>True</Split>
         <CustomSettings />
